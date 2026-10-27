@@ -1,3 +1,6 @@
+echo "" >> README.md
+echo "This Project is part of my hands-on DevOps Learning." >> README.md
+
 # Linux Web Server Monitoring & Recovery
 
 A hands-on DevOps project using Ubuntu Linux, Apache, Bash scripting, and cron.
